@@ -3,8 +3,8 @@ Small arduino working hours timer
 
 Little project to monitor work hours of UV-C lamp used as germicidal irradioation system. 
 Lamp was made here in Poland for hospitals and any possible use in case of COVID-19 danger.
-Thanks to my friend Artur for brilliant idea and whole UVGI lamp construction
-Program for arduino boards to memorize in EEPROM: on/off cycles, lamp working hours
+Thanks to my friend Artur for brilliant idea and whole UVGI lamp construction.
+Program for arduino boards to memorize in EEPROM: on/off cycles, lamp working hours.
  
 To do: change lamp indication (add hardware button) 
 
